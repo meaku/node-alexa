@@ -10,7 +10,7 @@
   "dependencies": {
       "underscore": ""
     , "qs": ""
-    , "request": ""
+    , "request": "2.34.0"
     , "libxml-to-js": ""
     , "sequence": ""
     },
